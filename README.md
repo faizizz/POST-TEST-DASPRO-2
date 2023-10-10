@@ -1,13 +1,13 @@
 # POST-TEST-DASPRO-2
 
 
-FLOWCHART 
+# FLOWCHART 
 
 ![post test 2](https://github.com/faizizz/POST-TEST-DASPRO-2/assets/144973981/928f678e-fe24-49d2-bc66-174ceeaaa588)
 
-DI atas adalah flowchart dari program yang sudah saya buat
+Di atas adalah flowchart dari program yang sudah saya buat
 
-OUTPUT
+# OUTPUT
 
 Jadi di program yang saya buat, pengguna akan diberi pilihan produk majalah yang tersedia yang siap untuk mereka beli
 
